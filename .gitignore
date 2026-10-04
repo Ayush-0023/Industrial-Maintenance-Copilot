@@ -1,0 +1,7 @@
+.venv313/
+.env
+data/
+storage/chroma_db/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
